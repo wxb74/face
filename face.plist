@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>DNHC.FaceRecognition1</string>
+				<string>DNHC.FaceRecognition11</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
