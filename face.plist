@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>DNHC.ProjectAssistant1</string>
+				<string>DNHC.FaceRecognition1</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>工程助手</string>
+				<string>人脸识别demo</string>
 			</dict>
 		</dict>
 	</array>
