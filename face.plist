@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://59.61.83.174:942/nep/soft/face512.png</string>
+					<string>http://59.61.83.174:942/nep/soft/gczs512.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://59.61.83.174:942/nep/soft/face57.png</string>
+					<string>http://59.61.83.174:942/nep/soft/gczs57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>人脸识别demo</string>
+				<string>人脸识别demo1</string>
 			</dict>
 		</dict>
 	</array>
